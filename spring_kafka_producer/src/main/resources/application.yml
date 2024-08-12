@@ -2,4 +2,4 @@ server.port: 8090
 spring:
   application.name: spring_kafka_producer
   output.ansi.enabled: always
-  kafka.producer.bootstrap-server: 127.0.0.1:29092
+  kafka.producer.bootstrap-server: 127.0.0.1:9092
